@@ -1,0 +1,64 @@
+<! DOCTYPE html>
+<html>
+<head>
+ <title>Education and career </title>
+ <script src="https://kit.fontawesome.com/b067488065.js" crossorigin="anonymous"></script>
+    <link rel = "stylesheet" href = " Education and career .CSS ">
+</head>
+
+
+<body>
+
+<ul>
+ <li><a href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/Home%20Page.html.bak"  target = "_self" > home </a></li>
+ <li><a href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/PERSONAL%20WEBSITE.html.bak" target = "_blank">About me Page</a> </li>
+ <li><a href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/familyPage.html.bak">Family Page</a></li>
+ <li><a href = " file:///C:/Users/Nzalama%201/Desktop/multi%20media/Pictures.html.bak">Pictures page</a></li>
+ <li><a target = "_blank" class = "active" href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/Education%20and%20career%20.html.bak">Education and Career Page</a></li>
+ <li><a href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/Resume.html.bak">Resume Page </a></li>
+</ul>
+
+<center>
+<div class = "heading">
+<h1>Eduaction & career</h1>
+</div>
+</center>
+
+
+<div class = "paragraph">
+
+<b>So</b> where to from here !
+well in all honesty every day my understanding of the IT environmnet  is changing as the vast technological world around us that iam currently learning about is chainging well.<br>
+and that is imapcting what career within the technological market  i would like to venture off into.<br>
+
+<br>
+however having or a plan or 2 is still crucial 
+<em>programming</em> and <em>hardware maufacturing</em> are my targets.
+Iam  very enthusiastics about programming.I find it shocking how powerfull computer languages are and what can be achived by using them.<br>
+Moreover Iam very intereted in knowing how a computer works and what makes it do what it does.I beleive these 2 fields are a powerfull combination
+in view of the fact that a computer is only as powerfull as the one who wields it.
+</div>
+
+
+<div class = "sidenote">
+ Did you know! that the process of creating a Central processing unit  all starts with sand.<br>
+ check it out !
+<a href ="https://youtu.be/Q5paWn7bFg4" target="_blank"><i class="fa fa-caret-square-o-right" aria-hidden="true"></i>
+</a>
+</div>
+
+
+<div = class = "video">
+
+
+ <video width = "300px" height = "300px" autoplay >
+  <source src = "theFACTORY.mp4" type = "video/mp4">
+  your browser does not suppprt the vedio tag.
+ </video>
+</div>
+  
+
+
+</body>
+
+</html>

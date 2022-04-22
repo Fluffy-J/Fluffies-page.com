@@ -1,0 +1,148 @@
+
+body{ background-color:white;
+	  
+	  height:50vh;
+	 
+	
+	  padding-left:10px;
+	  
+}
+
+
+
+
+ul { 
+	  list-style-type:none;
+	  position:relative;
+	  top:-120px;
+	  font-family:georgia,serif;
+	  text-align:left;
+	  width:200px;
+	
+	
+}
+
+.clearfix{clear:both;
+		  content:"";
+		  display:block;
+		 
+}
+		 
+		 
+
+
+li a {  display: block ;
+		padding : 8px 16px;
+		color:black;
+		text-decoration:none;
+		
+}
+
+li a:hover {
+	background-color:powderblue;
+	color:green;
+    	
+}
+	   
+.active { 
+		  color:grey;
+		  border-left:2px solid green;
+			
+}
+	
+
+
+
+h1{      position:relative;
+		 background-image:url("clouds.jpg");
+		 height:25vh;
+		 width:300px;
+		 border-radius:20%;
+		 display:flex;
+		 justify-content:center;
+		 align-items:center;
+}
+
+
+
+
+
+.whoamI {
+		  
+          width:500px;
+		  height:90vh;
+		  font-family: roman, serif ;
+		  float:left;
+		  margin:170px;
+		  position:relative;
+		  top:-260px;
+		  border:5px solid powederblue;
+		 
+
+}
+
+a:link{
+       color:darkgrey;
+	   text-decoration:none;
+	   
+
+
+
+}
+   
+		  
+ 
+.sidenote { align-items:center;
+		    justify-content:center;
+			background-color:white;
+			height:15vh;
+			width:70%;
+			float:right;
+			padding-right:65px;
+			border-left: 6px solid green;
+		    opacity:0.8;
+			padding-left:10px;
+
+}			
+
+
+
+	
+img{ width:150px;
+	 height:20vh;
+	 object-fit:cover;
+	
+	 padding:10px;
+	 border-radius:10%;
+	 /*padding between imgae and grey boreders*/
+	 /*padding:5px;*/
+	
+	 
+	 
+	 
+	 
+}
+	 
+.flex-container{
+				 
+				 /* 250px from the nearest element which is the sticknote in this case*/
+				 top:-250px;
+				 flex-direction:column;
+				 position:relative;
+				 width:150px;
+				 height:10px;
+				 float:right;
+				 padding:50px;
+				
+
+
+}
+.clearfix{   clear:left;
+			  content:"";
+			  display:box;
+	
+}
+
+/*acts as a clear fix*/
+
+}

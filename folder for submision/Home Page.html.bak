@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title></title>  
+    <script src="https://kit.fontawesome.com/b067488065.js" crossorigin="anonymous"></script>
+    <link rel = "stylesheet" href="homePageStyling.CSS">
+
+  </head>
+<body>
+
+<center>
+<div class = "header">
+
+welcome
+
+</div>
+
+<p>
+This is a personal website by Joshsua Mokwebo.<br>
+I will will be taking you thorugh the various aspects of my life ,<br>
+that you see as links on your left hand side. 
+If you wish to know more about me jump right into the nextpage
+<a href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/PERSONAL%20WEBSITE.html.bak" target = "_blank"><i class="fa-solid fa-thumbs-up"></i></a>
+<p>
+</center>
+
+<ul>
+ <li><a class = "active" href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/Home%20Page.html.bak" target = "_self"  > home </a></li>
+ <li><a href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/PERSONAL%20WEBSITE.html.bak" target = "_blank" >About me Page</a> </li>
+ <li><a href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/familyPage.html.bak">Family Page</a></li>
+ <li><a href = " file:///C:/Users/Nzalama%201/Desktop/multi%20media/Pictures.html.bak">Pictures page</a></li>
+ <li><a href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/Education%20and%20career%20.html.bak">Education and Career Page</a></li>
+ <li><a href = "file:///C:/Users/Nzalama%201/Desktop/multi%20media/Resume.html.bak">Resume Page </a></li>
+</ul>
+
+
+
+</body>
+</html>
