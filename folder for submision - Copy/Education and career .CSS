@@ -1,0 +1,110 @@
+
+body{ background-color:white;
+      
+	  
+	  height:300vh;
+	  justify-content:center;
+	  align-items:center;
+	  margin:auto;
+	 
+}
+
+
+
+
+ul {  position:relative;
+      top:120px;
+      list-style-type:none;
+	  margin: 10;
+	  padding:0;
+	  font-family:georgia,serif;
+	  text-align:left;
+	  width:200px;
+	
+}
+
+.clearfix{clear:both;
+		  content:"";
+		  display:block;
+		 
+}
+		 
+		 
+
+
+li a {  display: block ;
+		padding : 8px 16px;
+		color:black;
+		text-decoration:none;
+		
+}
+
+li a:hover {
+	background-color:powderblue;
+	color:green;
+    	
+}
+	   
+.active { 
+		  color:grey;
+		  border-left:2px solid green;
+			
+
+}	
+
+.heading{position:relative;
+	     top:-240px;
+		 background-image:url("clouds.jpg");
+		 height:25vh;
+		 width:300px;
+		 border-radius:20%;
+		 display:flex;
+		 justify-content:center;
+		 align-items:center;
+}
+
+.paragraph { display:flex;
+		     border:1px solid balck;
+			 width:300px;
+			 position:relative;
+			 top:-250px;
+			 justify-content:center;
+			 align-items:center;
+			 margin:200px;
+			 flex-direction:column;
+			 
+			
+			
+
+}
+
+.sidenote { position:relative;
+			top:-900px;         
+			align-items:center;
+		    justify-content:center;
+			background-color:white;
+			height:30vh;
+			width:150px;
+			float:right;
+			border-left: 6px solid green;
+		    opacity:0.8;
+			/*padding between the words & the dark grey border*/
+			padding-left:10px;
+			
+
+}
+
+
+
+
+video { float:right;
+		border-radius:20%;
+		position:absolute;
+		top:-150px;
+		margin:600px;
+		background-color:powderBlue;
+		width:500px;
+		
+		
+
+}
